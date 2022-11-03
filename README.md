@@ -4,9 +4,6 @@ Growtopia Auto Updater can automatically detect if a new version of Growtopia is
 
 Growtopia Auto Updater currently only supports Windows.
 
-#### Growtopia Auto Updater by sadfaceman
-<a href="https://discord.gg/2QY3dck9RY" target=_blank><img src="https://drive.google.com/thumbnail?id=1vBtDJR6I7AmdS3tf9UtPhj2dWnrFEgsE" alt="Discord" width="16" height="16" style="float:left">**Sad's Multiverse of Sadness**</img>
-
 ## How to install
 ### Windows
 1. [Install AutoHotkey](https://www.autohotkey.com "Install AutoHotkey") (Optional)
