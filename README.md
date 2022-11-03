@@ -20,4 +20,4 @@ Remarks :
 
 - Growtopia Auto Updater obtains the version info from two sources, the current installed version from the Growtopia.exe executable, and the latest version from the Google Play Store page of Growtopia. If the Google Play Store page falls out of sync with the Windows latest version, this program will function incorrectly
 - Growtopia Auto Updater does ***not*** continuously check for a new version of growtopia. Instead, it only checks for a new version when it is launched, after which the program closes. This is done to avoid rate limiting done by Google Play Store
-- Launching Growtopia Auto Updater will automatically launch Growtopia. To disable this, press `e` while Growtopia Auto Updater is running, or open `Growtopia\GTAutoUpdater\AutoLaunchGT` file and change the `1` to a `0`
+- Launching Growtopia Auto Updater will automatically launch Growtopia. To disable this, press `Ctrl + Shift + E` while Growtopia Auto Updater is running, or open `Growtopia\GTAutoUpdater\AutoLaunchGT` file and change the `1` to a `0` (Pressing `Ctrl + Shift + R` reverts this)
